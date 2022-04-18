@@ -16,6 +16,6 @@
 | MS SQL | [**🎓**](https://softuni.bg/certificates/details/97874/f249f90d)  |
 | ASP.NET Core |  |
 | JS Advanced |  |
-| JS Application |  |
+| JS Application | [**🎓**](https://softuni.bg/certificates/details/120963/20749fde) |
 
 ![Profile views](https://gpvc.arturio.dev/maksun12)  🔔maksun12@abv.bg
